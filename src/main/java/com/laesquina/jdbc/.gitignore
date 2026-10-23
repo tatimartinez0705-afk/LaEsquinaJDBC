@@ -1,0 +1,14 @@
+# Archivos generados por Maven.
+target/
+
+# Configuración personal del editor.
+.vscode/
+
+# Archivos temporales y registros.
+*.log
+*.tmp
+
+# Archivos locales con credenciales.
+.env
+.env.*
+
